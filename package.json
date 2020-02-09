@@ -1,0 +1,22 @@
+{
+  "name": "pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KandreheLi/PDF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KandreheLi/PDF/issues"
+  },
+  "homepage": "https://github.com/KandreheLi/PDF#readme",
+  "dependencies": {
+    "hummus-recipe": "^1.9.2"
+  }
+}
