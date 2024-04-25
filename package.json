@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/KandreheLi/PDF#readme",
   "dependencies": {
-    "hummus-recipe": "^1.9.2"
+    "hummus-recipe": "^1.9.9"
   }
 }
